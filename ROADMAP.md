@@ -1,0 +1,52 @@
+# ATS PopTracker Roadmap
+Development of ATS PopTracker has resumed after a long time of inactivity
+
+The initial focus is to verify and correct the existing tracker against the
+current Against the Storm Archipelago implementation before expanding support
+for newer game content.
+
+## v0.5.0 — Audit and Correction
+
+The existing tracker will be audited against the current APWorld before new
+content is added. There are currently some known issues most likely due to outdated pointers and IDs
+
+### Planned
+
+- [ ] Audit Archipelago location mappings
+- [ ] Audit Archipelago item mappings
+- [ ] Audit existing biome checks
+- [ ] Audit existing species checks
+- [ ] Audit trade and general checks
+- [ ] Audit accessibility logic
+- [ ] Audit autotracker behavior
+- [ ] Identify invalid or outdated logic references
+- [ ] Correct confirmed mapping and logic issues
+- [ ] Regression test existing tracker content
+
+## v0.6.0 — Nightwatchers Content
+
+Add content introduced with Nightwatchers that is currently missing from
+ATS PopTracker.
+
+### Planned
+
+- [ ] Add Bamboo Flats
+- [ ] Add Rocky Ravine
+- [ ] Add Bats
+- [ ] Add associated locations and checks
+- [ ] Add autotracker mappings
+- [ ] Add accessibility logic
+- [ ] Add any additional missing Nightwatchers content identified during v0.5.0
+- [ ] Test new content against the current APWorld
+
+## Future / Under Consideration
+
+The following areas are being considered but are not currently assigned to a release.
+
+- Progression-aware reputation checks
+- Review other sequential progression checks
+- Automated APWorld-to-PopTracker mapping validation
+
+---
+
+This roadmap will most likely change a bit after the tracker has been audited and the underlying root causes has been verified
