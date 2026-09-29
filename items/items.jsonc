@@ -350,10 +350,10 @@
   "codes": "clan_hall"
  },
  {
-  "name": "Explorers Lodge",
+  "name": "Academy",
   "type": "toggle",
-  "img": "images/items/buildings/services/Explorers_Lodge.png",
-  "codes": "explorers_lodge"
+  "img": "images/items/buildings/services/Academy.png",
+  "codes": "academy"
  },
  {
   "name": "Forum",
