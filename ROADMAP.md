@@ -12,7 +12,7 @@ content is added. There are currently some known issues most likely due to outda
 
 ### Planned
 
-- [ ] Audit Archipelago location mappings
+- [X] Audit Archipelago location mappings
 - [ ] Audit Archipelago item mappings
 - [ ] Audit existing biome checks
 - [ ] Audit existing species checks
