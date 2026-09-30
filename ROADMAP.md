@@ -14,7 +14,7 @@ content is added. There are currently some known issues most likely due to outda
 
 - [X] Audit Archipelago location mappings
 - [X] Audit Archipelago item mappings
-- [ ] Audit existing biome checks
+- [X] Audit existing biome checks
 - [ ] Audit existing species checks
 - [ ] Audit trade and general checks
 - [ ] Audit accessibility logic

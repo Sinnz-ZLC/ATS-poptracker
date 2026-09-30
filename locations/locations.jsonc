@@ -2249,15 +2249,15 @@
         ],
           "sections": [
           {
-            "name": "Ashen Thicket - 1st Cornerstone",
+            "name": "Ashen Thicket - Forge 1st Cornerstone",
             "access_rules": [""]
           },
           {
-            "name": "Ashen Thicket - 2nd Cornerstone",
+            "name": "Ashen Thicket - Forge 2nd Cornerstone",
             "access_rules": ["$planks,$bricks"]
           },
           {
-            "name": "Ashen Thicket - 3rd Cornerstone",
+            "name": "Ashen Thicket - Forge 3rd Cornerstone",
             "access_rules": ["$planks,$bricks,$coalcopper_oresalt"]
           }
         ]

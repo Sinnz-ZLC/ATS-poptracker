@@ -346,9 +346,9 @@ local LOCATION_LIST = {
     { { "@Scarlet Orchard/Biome/Scarlet Orchard - Reconstruct the Sealed Spider" } },
     { { "@Scarlet Orchard/Biome/Scarlet Orchard - Reconstruct the Sea Snake" } },
     { { "@Scarlet Orchard/Biome/Scarlet Orchard - Reconstruct the Smoldering Scorpion" } },
-    { { "@Ashen Thicket/Biome/Ashen Thicket - 1st Cornerstone" } },
-    { { "@Ashen Thicket/Biome/Ashen Thicket - 2nd Cornerstone" } },
-    { { "@Ashen Thicket/Biome/Ashen Thicket - 3rd Cornerstone" } },
+    { { "@Ashen Thicket/Biome/Ashen Thicket - Forge 1st Cornerstone" } },
+    { { "@Ashen Thicket/Biome/Ashen Thicket - Forge 2nd Cornerstone" } },
+    { { "@Ashen Thicket/Biome/Ashen Thicket - Forge 3rd Cornerstone" } },
 
     --Biome Expeditions
     { { "@Coastal Grove/Biome/Coastal Grove - 1st Expedition" } },
