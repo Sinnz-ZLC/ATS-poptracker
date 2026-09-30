@@ -16,7 +16,7 @@ content is added. There are currently some known issues most likely due to outda
 - [X] Audit Archipelago item mappings
 - [X] Audit existing biome checks
 - [X] Audit existing species checks
-- [ ] Audit trade and general checks
+- [X] Audit trade and general checks
 - [ ] Audit accessibility logic
 - [ ] Audit autotracker behavior
 - [ ] Identify invalid or outdated logic references
@@ -37,6 +37,7 @@ currently missing from ATS PopTracker
 - [ ] Add autotracker mappings
 - [ ] Add accessibility logic
 - [ ] Add biome key tracking
+- [ ] Add tracking for trade goods
 - [ ] Add tracking for filler items
 - [ ] Test new content against the current APWorld
 
