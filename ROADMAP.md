@@ -17,7 +17,7 @@ content is added. There are currently some known issues most likely due to outda
 - [X] Audit existing biome checks
 - [X] Audit existing species checks
 - [X] Audit trade and general checks
-- [ ] Audit accessibility logic
+- [X] Audit accessibility logic
 - [ ] Audit autotracker behavior
 - [ ] Identify invalid or outdated logic references
 - [ ] Correct confirmed mapping and logic issues

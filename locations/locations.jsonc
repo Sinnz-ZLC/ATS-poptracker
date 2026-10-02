@@ -2589,7 +2589,7 @@
           },
           {
             "name": "Coastal Grove - 6th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge"]
           },
           {
             "name": "Coastal Grove - 7th Expedition",

@@ -25,7 +25,7 @@ function has(item, amount)
 end
 
 function porridgebiscuitspiecoats()
-    return (has("porridge") or has("biscuits") or has("pie") or has(""))
+    return (has("porridge") or has("biscuits") or has("pie") or has("coats"))
 end
 
 function planks()
@@ -97,11 +97,11 @@ function wine()
 end
 
 function ambertrade_goods()
-    return (has("amber") or has("") or has("wine"))
+    return (has("amber") or has("trade_goods"))
 end
 
 function jerkyskewerspie()
-    return (has("jeyky") or has("skewers") or has("pie"))
+    return (has("jerky") or has("skewers") or has("pie"))
 end
 
 function boots()
