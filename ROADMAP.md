@@ -18,8 +18,8 @@ content is added. There are currently some known issues most likely due to outda
 - [X] Audit existing species checks
 - [X] Audit trade and general checks
 - [X] Audit accessibility logic
-- [ ] Audit autotracker behavior
-- [ ] Identify invalid or outdated logic references
+- [X] Audit autotracker behavior
+- [X] Identify invalid or outdated logic references
 - [ ] Correct confirmed mapping and logic issues
 - [ ] Regression test existing tracker content
 

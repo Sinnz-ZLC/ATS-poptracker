@@ -364,10 +364,6 @@ function tools()
     return (has("tools"))
 end
 
-function pipes()
-    return (has("pipes"))
-end
-
 function oilcoalsea_marrow()
     return (has("oil") or has("coal") or has("sea_marrow"))
 end
