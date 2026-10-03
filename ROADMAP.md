@@ -20,8 +20,8 @@ content is added. There are currently some known issues most likely due to outda
 - [X] Audit accessibility logic
 - [X] Audit autotracker behavior
 - [X] Identify invalid or outdated logic references
-- [ ] Correct confirmed mapping and logic issues
-- [ ] Regression test existing tracker content
+- [X] Correct confirmed mapping and logic issues
+- [X] Regression test existing tracker content
 
 ## v0.6.0 — Add Missing Content
 
