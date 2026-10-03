@@ -1,12 +1,12 @@
 {
   "name": "Against the Storm",
   "game_name": "Against The Storm",
-  "package_version": "0.4.0.0",
+  "package_version": "0.5.0.0",
   "package_uid": "ats_poptracker",
   "platform": "pc",
-  "author": "Chfou",
+  "author": "Chfou, Sinnz",
   "min_poptracker_version": "0.25.9",
-  "target_poptracker_version": "0.28.0",
+  "target_poptracker_version": "0.35.4",
   "variants": {
     "standard": {
       "display_name": "Items Only",

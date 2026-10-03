@@ -18,7 +18,7 @@
           ["advanced_rain_catcher", "alchemist_hut", "artisan", "brewery", "brick_oven", "brickyard", "cannery", "carpenter","clothier", "cobbler"],
           ["cooperage", "distillery", "druid", "finesmith", "kiln", "leatherworks", "lumber_mill", "manufactory", "press", "provisioner"],
           ["scribe", "smelter", "smithy", "stamping_mill", "supplier", "tea_house", "tinctury", "tinkerer", "toolshop", "weaver", "workshop"],
-          ["bath_house", "clan_hall", "explorers_lodge", "forum", "guild_house", "market", "monastery", "tavern", "tea_doctor", "temple"]
+          ["bath_house", "clan_hall", "academy", "forum", "guild_house", "market", "monastery", "tavern", "tea_doctor", "temple"]
         ]
       }
     ]

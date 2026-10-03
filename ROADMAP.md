@@ -12,21 +12,21 @@ content is added. There are currently some known issues most likely due to outda
 
 ### Planned
 
-- [ ] Audit Archipelago location mappings
-- [ ] Audit Archipelago item mappings
-- [ ] Audit existing biome checks
-- [ ] Audit existing species checks
-- [ ] Audit trade and general checks
-- [ ] Audit accessibility logic
-- [ ] Audit autotracker behavior
-- [ ] Identify invalid or outdated logic references
-- [ ] Correct confirmed mapping and logic issues
-- [ ] Regression test existing tracker content
+- [X] Audit Archipelago location mappings
+- [X] Audit Archipelago item mappings
+- [X] Audit existing biome checks
+- [X] Audit existing species checks
+- [X] Audit trade and general checks
+- [X] Audit accessibility logic
+- [X] Audit autotracker behavior
+- [X] Identify invalid or outdated logic references
+- [X] Correct confirmed mapping and logic issues
+- [X] Regression test existing tracker content
 
-## v0.6.0 — Nightwatchers Content
+## v0.6.0 — Add Missing Content
 
-Add content introduced with Nightwatchers that is currently missing from
-ATS PopTracker.
+Add content and tracking functionality from the current APWorld that is
+currently missing from ATS PopTracker
 
 ### Planned
 
@@ -36,7 +36,9 @@ ATS PopTracker.
 - [ ] Add associated locations and checks
 - [ ] Add autotracker mappings
 - [ ] Add accessibility logic
-- [ ] Add any additional missing Nightwatchers content identified during v0.5.0
+- [ ] Add biome key tracking
+- [ ] Add tracking for trade goods
+- [ ] Add tracking for filler items
 - [ ] Test new content against the current APWorld
 
 ## Future / Under Consideration
