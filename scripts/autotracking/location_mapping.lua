@@ -168,45 +168,45 @@ local LOCATION_LIST = {
     { { "@Ashen Thicket/17th Reputation/Ashen Thicket - 17th Reputation" } },
     { { "@Ashen Thicket/Victory/Ashen Thicket - Victory" } },
 
-        -- Bamboo Flats (Nightwatchers - not tracked yet)
-    false, -- 1st Reputation
-    false, -- 2nd Reputation
-    false, -- 3rd Reputation
-    false, -- 4th Reputation
-    false, -- 5th Reputation
-    false, -- 6th Reputation
-    false, -- 7th Reputation
-    false, -- 8th Reputation
-    false, -- 9th Reputation
-    false, -- 10th Reputation
-    false, -- 11th Reputation
-    false, -- 12th Reputation
-    false, -- 13th Reputation
-    false, -- 14th Reputation
-    false, -- 15th Reputation
-    false, -- 16th Reputation
-    false, -- 17th Reputation
-    false, -- Victory
+        -- Bamboo Flats
+    { { "@Bamboo Flats/1st Reputation/Bamboo Flats - 1st Reputation" } },
+    { { "@Bamboo Flats/2nd Reputation/Bamboo Flats - 2nd Reputation" } },
+    { { "@Bamboo Flats/3rd Reputation/Bamboo Flats - 3rd Reputation" } },
+    { { "@Bamboo Flats/4th Reputation/Bamboo Flats - 4th Reputation" } },
+    { { "@Bamboo Flats/5th Reputation/Bamboo Flats - 5th Reputation" } },
+    { { "@Bamboo Flats/6th Reputation/Bamboo Flats - 6th Reputation" } },
+    { { "@Bamboo Flats/7th Reputation/Bamboo Flats - 7th Reputation" } },
+    { { "@Bamboo Flats/8th Reputation/Bamboo Flats - 8th Reputation" } },
+    { { "@Bamboo Flats/9th Reputation/Bamboo Flats - 9th Reputation" } },
+    { { "@Bamboo Flats/10th Reputation/Bamboo Flats - 10th Reputation" } },
+    { { "@Bamboo Flats/11th Reputation/Bamboo Flats - 11th Reputation" } },
+    { { "@Bamboo Flats/12th Reputation/Bamboo Flats - 12th Reputation" } },
+    { { "@Bamboo Flats/13th Reputation/Bamboo Flats - 13th Reputation" } },
+    { { "@Bamboo Flats/14th Reputation/Bamboo Flats - 14th Reputation" } },
+    { { "@Bamboo Flats/15th Reputation/Bamboo Flats - 15th Reputation" } },
+    { { "@Bamboo Flats/16th Reputation/Bamboo Flats - 16th Reputation" } },
+    { { "@Bamboo Flats/17th Reputation/Bamboo Flats - 17th Reputation" } },
+    { { "@Bamboo Flats/Victory/Bamboo Flats - Victory" } },
 
-    -- Rocky Ravine (Nightwatchers - not tracked yet)
-    false, -- 1st Reputation
-    false, -- 2nd Reputation
-    false, -- 3rd Reputation
-    false, -- 4th Reputation
-    false, -- 5th Reputation
-    false, -- 6th Reputation
-    false, -- 7th Reputation
-    false, -- 8th Reputation
-    false, -- 9th Reputation
-    false, -- 10th Reputation
-    false, -- 11th Reputation
-    false, -- 12th Reputation
-    false, -- 13th Reputation
-    false, -- 14th Reputation
-    false, -- 15th Reputation
-    false, -- 16th Reputation
-    false, -- 17th Reputation
-    false, -- Victory
+    -- Rocky Ravine
+    { { "@Rocky Ravine/1st Reputation/Rocky Ravine - 1st Reputation" } },
+    { { "@Rocky Ravine/2nd Reputation/Rocky Ravine - 2nd Reputation" } },
+    { { "@Rocky Ravine/3rd Reputation/Rocky Ravine - 3rd Reputation" } },
+    { { "@Rocky Ravine/4th Reputation/Rocky Ravine - 4th Reputation" } },
+    { { "@Rocky Ravine/5th Reputation/Rocky Ravine - 5th Reputation" } },
+    { { "@Rocky Ravine/6th Reputation/Rocky Ravine - 6th Reputation" } },
+    { { "@Rocky Ravine/7th Reputation/Rocky Ravine - 7th Reputation" } },
+    { { "@Rocky Ravine/8th Reputation/Rocky Ravine - 8th Reputation" } },
+    { { "@Rocky Ravine/9th Reputation/Rocky Ravine - 9th Reputation" } },
+    { { "@Rocky Ravine/10th Reputation/Rocky Ravine - 10th Reputation" } },
+    { { "@Rocky Ravine/11th Reputation/Rocky Ravine - 11th Reputation" } },
+    { { "@Rocky Ravine/12th Reputation/Rocky Ravine - 12th Reputation" } },
+    { { "@Rocky Ravine/13th Reputation/Rocky Ravine - 13th Reputation" } },
+    { { "@Rocky Ravine/14th Reputation/Rocky Ravine - 14th Reputation" } },
+    { { "@Rocky Ravine/15th Reputation/Rocky Ravine - 15th Reputation" } },
+    { { "@Rocky Ravine/16th Reputation/Rocky Ravine - 16th Reputation" } },
+    { { "@Rocky Ravine/17th Reputation/Rocky Ravine - 17th Reputation" } },
+    { { "@Rocky Ravine/Victory/Rocky Ravine - Victory" } },
 
     -- Sealed Forest Reputation
     { { "@Sealed Forest/1st Reputation/Sealed Forest - 1st Reputation" } },

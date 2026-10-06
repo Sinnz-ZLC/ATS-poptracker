@@ -30,11 +30,11 @@ currently missing from ATS PopTracker
 
 ### Planned
 
-- [ ] Add Bamboo Flats
-- [ ] Add Rocky Ravine
-- [ ] Add Bats
-- [ ] Add associated locations and checks
-- [ ] Add autotracker mappings
+- [X] Add Bamboo Flats
+- [X] Add Rocky Ravine
+- [X] Add Bats
+- [X] Add associated locations and checks
+- [X] Add autotracker mappings
 - [ ] Add accessibility logic
 - [ ] Add biome key tracking
 - [ ] Add tracking for trade goods

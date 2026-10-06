@@ -375,3 +375,7 @@ end
 function coalcopper_oresalt()
     return (has("coal") or has("copper_ore") or has("salt"))
 end
+
+function pastebiscuitsskewers()
+    return (has("paste") or has("biscuits") or has("skewers"))
+end

@@ -105,6 +105,23 @@
             "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire,$building_materials"]
           }
         ]
+      },
+      {
+        "name": "Bats",
+        "sections" : [
+          {
+              "name": "First Reputation through Resolve",
+            "access_rules": ["$pipes"]
+          },
+          {
+            "name": "50 Resolve",
+            "access_rules": ["$pastebiscuitsskewers,$coats,$scrolls,$training_gear,$planks,$fabric,$bricks,$purging_fire"]
+          },
+          {
+            "name": "Have 20 Villagers in fully upgraded Housing",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire,$building_materials,$pipes,$copper_ore"]
+          }
+        ]
       }
     ]
   },
@@ -400,6 +417,54 @@
           "ref": "Species/Frogs/Have 20 Villagers in fully upgraded Housing"
         }
       ]
+    },
+    {
+      "name": "Bats - First Reputation through Resolve",
+      "map_locations": [
+        {
+          "map": "species",
+          "x": 1313,
+          "y": 249
+        }
+      ],
+      "sections" : [
+        {
+          "name": "Bats - First Reputation through Resolve",
+          "ref": "Species/Bats/First Reputation through Resolve"
+        }
+      ]
+    },
+    {
+      "name": "Bats - 50 Resolve",
+      "map_locations": [
+        {
+          "map": "species",
+          "x": 1313,
+          "y": 441
+        }
+      ],
+      "sections" : [
+        {
+          "name": "Bats - 50 Resolve",
+          "ref": "Species/Bats/50 Resolve"
+        }
+      ]
+    },
+    {
+      "name": "Bats - Have 20 Villagers in fully upgraded Housing",
+      "map_locations": [
+        {
+          "map": "species",
+          "x": 1313,
+          "y": 633
+        }
+      ],
+      "sections" : [
+        {
+          "name": "Bats - Have 20 Villagers in fully upgraded Housing",
+          "ref": "Species/Bats/Have 20 Villagers in fully upgraded Housing"
+        }
+      ]
     }
   ]
 },
@@ -413,8 +478,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 193,
-            "y": 935
+            "x": 228,
+            "y": 831
           }
         ],
           "sections": [
@@ -429,8 +494,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 292,
-            "y": 935
+            "x": 331,
+            "y": 831
           }
         ],
           "sections": [
@@ -445,8 +510,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 391,
-            "y": 935
+            "x": 434,
+            "y": 831
           }
         ],
           "sections": [
@@ -461,8 +526,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 490,
-            "y": 935
+            "x": 537,
+            "y": 831
           }
         ],
           "sections": [
@@ -477,8 +542,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 589,
-            "y": 935
+            "x": 640,
+            "y": 831
           }
         ],
           "sections": [
@@ -493,8 +558,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 688,
-            "y": 935
+            "x": 743,
+            "y": 831
           }
         ],
           "sections": [
@@ -509,8 +574,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 787,
-            "y": 935
+            "x": 846,
+            "y": 831
           }
         ],
           "sections": [
@@ -525,8 +590,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 886,
-            "y": 935
+            "x": 949,
+            "y": 831
           }
         ],
           "sections": [
@@ -541,8 +606,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 985,
-            "y": 935
+            "x": 1052,
+            "y": 831
           }
         ],
           "sections": [
@@ -557,8 +622,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1084,
-            "y": 935
+            "x": 1155,
+            "y": 831
           }
         ],
           "sections": [
@@ -573,8 +638,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1183,
-            "y": 935
+            "x": 1258,
+            "y": 831
           }
         ],
           "sections": [
@@ -589,8 +654,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1282,
-            "y": 935
+            "x": 1361,
+            "y": 831
           }
         ],
           "sections": [
@@ -605,8 +670,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1381,
-            "y": 935
+            "x": 1464,
+            "y": 831
           }
         ],
           "sections": [
@@ -621,8 +686,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1480,
-            "y": 935
+            "x": 1567,
+            "y": 831
           }
         ],
           "sections": [
@@ -637,8 +702,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1579,
-            "y": 935
+            "x": 1670,
+            "y": 831
           }
         ],
           "sections": [
@@ -653,8 +718,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1678,
-            "y": 935
+            "x": 1773,
+            "y": 831
           }
         ],
           "sections": [
@@ -669,8 +734,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1777,
-            "y": 935
+            "x": 1876,
+            "y": 831
           }
         ],
           "sections": [
@@ -685,8 +750,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1876,
-            "y": 935
+            "x": 1979,
+            "y": 831
           }
         ],
           "sections": [
@@ -708,8 +773,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 193,
-            "y": 500
+            "x": 228,
+            "y": 444
           }
         ],
           "sections": [
@@ -724,8 +789,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 292,
-            "y": 500
+            "x": 331,
+            "y": 444
           }
         ],
           "sections": [
@@ -740,8 +805,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 391,
-            "y": 500
+            "x": 434,
+            "y": 444
           }
         ],
           "sections": [
@@ -756,8 +821,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 490,
-            "y": 500
+            "x": 537,
+            "y": 444
           }
         ],
           "sections": [
@@ -772,8 +837,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 589,
-            "y": 500
+            "x": 640,
+            "y": 444
           }
         ],
           "sections": [
@@ -788,8 +853,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 688,
-            "y": 500
+            "x": 743,
+            "y": 444
           }
         ],
           "sections": [
@@ -804,8 +869,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 787,
-            "y": 500
+            "x": 846,
+            "y": 444
           }
         ],
           "sections": [
@@ -820,8 +885,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 886,
-            "y": 500
+            "x": 949,
+            "y": 444
           }
         ],
           "sections": [
@@ -836,8 +901,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 985,
-            "y": 500
+            "x": 1052,
+            "y": 444
           }
         ],
           "sections": [
@@ -852,8 +917,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1084,
-            "y": 500
+            "x": 1155,
+            "y": 444
           }
         ],
           "sections": [
@@ -868,8 +933,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1183,
-            "y": 500
+            "x": 1258,
+            "y": 444
           }
         ],
           "sections": [
@@ -884,8 +949,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1282,
-            "y": 500
+            "x": 1361,
+            "y": 444
           }
         ],
           "sections": [
@@ -900,8 +965,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1381,
-            "y": 500
+            "x": 1464,
+            "y": 444
           }
         ],
           "sections": [
@@ -916,8 +981,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1480,
-            "y": 500
+            "x": 1567,
+            "y": 444
           }
         ],
           "sections": [
@@ -932,8 +997,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1579,
-            "y": 500
+            "x": 1670,
+            "y": 444
           }
         ],
           "sections": [
@@ -948,8 +1013,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1678,
-            "y": 500
+            "x": 1773,
+            "y": 444
           }
         ],
           "sections": [
@@ -964,8 +1029,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1777,
-            "y": 500
+            "x": 1876,
+            "y": 444
           }
         ],
           "sections": [
@@ -980,8 +1045,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1876,
-            "y": 500
+            "x": 1979,
+            "y": 444
           }
         ],
           "sections": [
@@ -1003,8 +1068,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 193,
-            "y": 790
+            "x": 228,
+            "y": 702
           }
         ],
           "sections": [
@@ -1019,8 +1084,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 292,
-            "y": 790
+            "x": 331,
+            "y": 702
           }
         ],
           "sections": [
@@ -1035,8 +1100,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 391,            
-            "y": 790
+            "x": 434,            
+            "y": 702
           }
         ],
           "sections": [
@@ -1051,8 +1116,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 490,            
-            "y": 790
+            "x": 537,            
+            "y": 702
           }
         ],
           "sections": [
@@ -1067,8 +1132,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 589,            
-            "y": 790
+            "x": 640,            
+            "y": 702
           }
         ],
           "sections": [
@@ -1083,8 +1148,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 688,            
-            "y": 790
+            "x": 743,            
+            "y": 702
           }
         ],
           "sections": [
@@ -1099,8 +1164,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 787,            
-            "y": 790
+            "x": 846,            
+            "y": 702
           }
         ],
           "sections": [
@@ -1115,8 +1180,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 886,            
-            "y": 790
+            "x": 949,            
+            "y": 702
           }
         ],
           "sections": [
@@ -1131,8 +1196,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 985,            
-            "y": 790
+            "x": 1052,            
+            "y": 702
           }
         ],
           "sections": [
@@ -1147,8 +1212,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1084,
-            "y": 790
+            "x": 1155,
+            "y": 702
           }
         ],
           "sections": [
@@ -1163,8 +1228,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1183,
-            "y": 790
+            "x": 1258,
+            "y": 702
           }
         ],
           "sections": [
@@ -1179,8 +1244,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1282,
-            "y": 790
+            "x": 1361,
+            "y": 702
           }
         ],
           "sections": [
@@ -1195,8 +1260,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1381,
-            "y": 790
+            "x": 1464,
+            "y": 702
           }
         ],
           "sections": [
@@ -1211,8 +1276,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1480,
-            "y": 790
+            "x": 1567,
+            "y": 702
           }
         ],
           "sections": [
@@ -1227,8 +1292,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1579,
-            "y": 790
+            "x": 1670,
+            "y": 702
           }
         ],
           "sections": [
@@ -1243,8 +1308,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1678,
-            "y": 790
+            "x": 1773,
+            "y": 702
           }
         ],
           "sections": [
@@ -1259,8 +1324,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1777,
-            "y": 790
+            "x": 1876,
+            "y": 702
           }
         ],
           "sections": [
@@ -1275,8 +1340,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1876,
-            "y": 790
+            "x": 1979,
+            "y": 702
           }
         ],
           "sections": [
@@ -1291,8 +1356,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1975,
-            "y": 790
+            "x": 2082,
+            "y": 702
           }
         ],
           "sections": [
@@ -1322,8 +1387,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 193,
-            "y": 1080
+            "x": 228,
+            "y": 960
           }
         ],
           "sections": [
@@ -1338,8 +1403,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 292,
-            "y": 1080
+            "x": 331,
+            "y": 960
           }
         ],
           "sections": [
@@ -1354,8 +1419,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 391,
-            "y": 1080
+            "x": 434,
+            "y": 960
           }
         ],
           "sections": [
@@ -1370,8 +1435,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 490,
-            "y": 1080
+            "x": 537,
+            "y": 960
           }
         ],
           "sections": [
@@ -1386,8 +1451,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 589,
-            "y": 1080
+            "x": 640,
+            "y": 960
           }
         ],
           "sections": [
@@ -1402,8 +1467,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 688,
-            "y": 1080
+            "x": 743,
+            "y": 960
           }
         ],
           "sections": [
@@ -1418,8 +1483,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 787,
-            "y": 1080
+            "x": 846,
+            "y": 960
           }
         ],
           "sections": [
@@ -1434,8 +1499,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 886,
-            "y": 1080
+            "x": 949,
+            "y": 960
           }
         ],
           "sections": [
@@ -1450,8 +1515,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 985,
-            "y": 1080
+            "x": 1052,
+            "y": 960
           }
         ],
           "sections": [
@@ -1466,8 +1531,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1084,
-            "y": 1080
+            "x": 1155,
+            "y": 960
           }
         ],
           "sections": [
@@ -1482,8 +1547,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1183,
-            "y": 1080
+            "x": 1258,
+            "y": 960
           }
         ],
           "sections": [
@@ -1498,8 +1563,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1282,
-            "y": 1080
+            "x": 1361,
+            "y": 960
           }
         ],
           "sections": [
@@ -1514,8 +1579,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1381,
-            "y": 1080
+            "x": 1464,
+            "y": 960
           }
         ],
           "sections": [
@@ -1530,8 +1595,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1480,
-            "y": 1080
+            "x": 1567,
+            "y": 960
           }
         ],
           "sections": [
@@ -1546,8 +1611,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1579,
-            "y": 1080
+            "x": 1670,
+            "y": 960
           }
         ],
           "sections": [
@@ -1562,8 +1627,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1678,
-            "y": 1080
+            "x": 1773,
+            "y": 960
           }
         ],
           "sections": [
@@ -1578,8 +1643,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1777,
-            "y": 1080
+            "x": 1876,
+            "y": 960
           }
         ],
           "sections": [
@@ -1594,8 +1659,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1876,
-            "y": 1080
+            "x": 1979,
+            "y": 960
           }
         ],
           "sections": [
@@ -1610,8 +1675,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1975,
-            "y": 1080
+            "x": 2082,
+            "y": 960
           }
         ],
           "sections": [
@@ -1641,8 +1706,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 193,
-            "y": 655
+            "x": 228,
+            "y": 573
           }
         ],
           "sections": [
@@ -1657,8 +1722,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 292,
-            "y": 655
+            "x": 331,
+            "y": 573
           }
         ],
           "sections": [
@@ -1673,8 +1738,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 391,
-            "y": 655
+            "x": 434,
+            "y": 573
           }
         ],
           "sections": [
@@ -1689,8 +1754,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 490,
-            "y": 655
+            "x": 537,
+            "y": 573
           }
         ],
           "sections": [
@@ -1705,8 +1770,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 589,
-            "y": 655
+            "x": 640,
+            "y": 573
           }
         ],
           "sections": [
@@ -1721,8 +1786,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 688,
-            "y": 655
+            "x": 743,
+            "y": 573
           }
         ],
           "sections": [
@@ -1737,8 +1802,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 787,
-            "y": 655
+            "x": 846,
+            "y": 573
           }
         ],
           "sections": [
@@ -1753,8 +1818,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 886,
-            "y": 655
+            "x": 949,
+            "y": 573
           }
         ],
           "sections": [
@@ -1769,8 +1834,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 985,
-            "y": 655
+            "x": 1052,
+            "y": 573
           }
         ],
           "sections": [
@@ -1785,8 +1850,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1084,
-            "y": 655
+            "x": 1155,
+            "y": 573
           }
         ],
           "sections": [
@@ -1801,8 +1866,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1183,
-            "y": 655
+            "x": 1258,
+            "y": 573
           }
         ],
           "sections": [
@@ -1817,8 +1882,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1282,
-            "y": 655
+            "x": 1361,
+            "y": 573
           }
         ],
           "sections": [
@@ -1833,8 +1898,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1381,
-            "y": 655
+            "x": 1464,
+            "y": 573
           }
         ],
           "sections": [
@@ -1849,8 +1914,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1480,
-            "y": 655
+            "x": 1567,
+            "y": 573
           }
         ],
           "sections": [
@@ -1865,8 +1930,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1579,
-            "y": 655
+            "x": 1670,
+            "y": 573
           }
         ],
           "sections": [
@@ -1881,8 +1946,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1678,
-            "y": 655
+            "x": 1773,
+            "y": 573
           }
         ],
           "sections": [
@@ -1897,8 +1962,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1777,
-            "y": 655
+            "x": 1876,
+            "y": 573
           }
         ],
           "sections": [
@@ -1913,8 +1978,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1876,
-            "y": 655
+            "x": 1979,
+            "y": 573
           }
         ],
           "sections": [
@@ -1929,8 +1994,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1975,
-            "y": 655
+            "x": 2082,
+            "y": 573
           }
         ],
           "sections": [
@@ -1956,8 +2021,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 193,
-            "y": 210
+            "x": 228,
+            "y": 187
           }
         ],
           "sections": [
@@ -1972,8 +2037,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 292,
-            "y": 210
+            "x": 331,
+            "y": 187
           }
         ],
           "sections": [
@@ -1988,8 +2053,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 391,
-            "y": 210
+            "x": 434,
+            "y": 187
           }
         ],
           "sections": [
@@ -2004,8 +2069,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 490,
-            "y": 210
+            "x": 537,
+            "y": 187
           }
         ],
           "sections": [
@@ -2020,8 +2085,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 589,
-            "y": 210
+            "x": 640,
+            "y": 187
           }
         ],
           "sections": [
@@ -2036,8 +2101,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 688,
-            "y": 210
+            "x": 743,
+            "y": 187
           }
         ],
           "sections": [
@@ -2052,8 +2117,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 787,
-            "y": 210
+            "x": 846,
+            "y": 187
           }
         ],
           "sections": [
@@ -2068,8 +2133,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 886,
-            "y": 210
+            "x": 949,
+            "y": 187
           }
         ],
           "sections": [
@@ -2084,8 +2149,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 985,
-            "y": 210
+            "x": 1052,
+            "y": 187
           }
         ],
           "sections": [
@@ -2100,8 +2165,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1084,
-            "y": 210
+            "x": 1155,
+            "y": 187
           }
         ],
           "sections": [
@@ -2116,8 +2181,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1183,
-            "y": 210
+            "x": 1258,
+            "y": 187
           }
         ],
           "sections": [
@@ -2132,8 +2197,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1282,
-            "y": 210
+            "x": 1361,
+            "y": 187
           }
         ],
           "sections": [
@@ -2148,8 +2213,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1381,
-            "y": 210
+            "x": 1464,
+            "y": 187
           }
         ],
           "sections": [
@@ -2164,8 +2229,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1480,
-            "y": 210
+            "x": 1567,
+            "y": 187
           }
         ],
           "sections": [
@@ -2180,8 +2245,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1579,
-            "y": 210
+            "x": 1670,
+            "y": 187
           }
         ],
           "sections": [
@@ -2196,8 +2261,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1678,
-            "y": 210
+            "x": 1773,
+            "y": 187
           }
         ],
           "sections": [
@@ -2212,8 +2277,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1777,
-            "y": 210
+            "x": 1876,
+            "y": 187
           }
         ],
           "sections": [
@@ -2228,8 +2293,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1876,
-            "y": 210
+            "x": 1979,
+            "y": 187
           }
         ],
           "sections": [
@@ -2244,8 +2309,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1975,
-            "y": 210
+            "x": 2082,
+            "y": 187
           }
         ],
           "sections": [
@@ -2275,8 +2340,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 193,
-            "y": 355
+            "x": 228,
+            "y": 315
           }
         ],
           "sections": [
@@ -2291,8 +2356,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 292,
-            "y": 355
+            "x": 331,
+            "y": 315
           }
         ],
           "sections": [
@@ -2307,8 +2372,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 391,
-            "y": 355
+            "x": 434,
+            "y": 315
           }
         ],
           "sections": [
@@ -2323,8 +2388,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 490,
-            "y": 355
+            "x": 537,
+            "y": 315
           }
         ],
           "sections": [
@@ -2339,8 +2404,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 589,
-            "y": 355
+            "x": 640,
+            "y": 315
           }
         ],
           "sections": [
@@ -2355,8 +2420,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 688,
-            "y": 355
+            "x": 743,
+            "y": 315
           }
         ],
           "sections": [
@@ -2371,8 +2436,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 787,
-            "y": 355
+            "x": 846,
+            "y": 315
           }
         ],
           "sections": [
@@ -2387,8 +2452,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 886,
-            "y": 355
+            "x": 949,
+            "y": 315
           }
         ],
           "sections": [
@@ -2403,8 +2468,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 985,
-            "y": 355
+            "x": 1052,
+            "y": 315
           }
         ],
           "sections": [
@@ -2419,8 +2484,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1084,
-            "y": 355
+            "x": 1155,
+            "y": 315
           }
         ],
           "sections": [
@@ -2435,8 +2500,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1183,
-            "y": 355
+            "x": 1258,
+            "y": 315
           }
         ],
           "sections": [
@@ -2451,8 +2516,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1282,
-            "y": 355
+            "x": 1361,
+            "y": 315
           }
         ],
           "sections": [
@@ -2467,8 +2532,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1381,
-            "y": 355
+            "x": 1464,
+            "y": 315
           }
         ],
           "sections": [
@@ -2483,8 +2548,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1480,
-            "y": 355
+            "x": 1567,
+            "y": 315
           }
         ],
           "sections": [
@@ -2499,8 +2564,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1579,
-            "y": 355
+            "x": 1670,
+            "y": 315
           }
         ],
           "sections": [
@@ -2515,8 +2580,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1678,
-            "y": 355
+            "x": 1773,
+            "y": 315
           }
         ],
           "sections": [
@@ -2531,8 +2596,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1777,
-            "y": 355
+            "x": 1876,
+            "y": 315
           }
         ],
           "sections": [
@@ -2547,8 +2612,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1876,
-            "y": 355
+            "x": 1979,
+            "y": 315
           }
         ],
           "sections": [
@@ -2563,8 +2628,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1975,
-            "y": 355
+            "x": 2082,
+            "y": 315
           }
         ],
           "sections": [
@@ -2662,8 +2727,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 193,
-            "y": 1225
+            "x": 228,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2678,8 +2743,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 292,
-            "y": 1225
+            "x": 331,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2694,8 +2759,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 391,
-            "y": 1225
+            "x": 434,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2710,8 +2775,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 490,
-            "y": 1225
+            "x": 537,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2726,8 +2791,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 589,
-            "y": 1225
+            "x": 640,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2742,8 +2807,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 688,
-            "y": 1225
+            "x": 743,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2758,8 +2823,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 787,
-            "y": 1225
+            "x": 846,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2774,8 +2839,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 886,
-            "y": 1225
+            "x": 949,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2790,8 +2855,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 985,
-            "y": 1225
+            "x": 1052,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2806,8 +2871,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1084,
-            "y": 1225
+            "x": 1155,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2822,8 +2887,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1183,
-            "y": 1225
+            "x": 1258,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2838,8 +2903,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1282,
-            "y": 1225
+            "x": 1361,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2854,8 +2919,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1381,
-            "y": 1225
+            "x": 1464,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2870,8 +2935,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1480,
-            "y": 1225
+            "x": 1567,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2886,8 +2951,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1579,
-            "y": 1225
+            "x": 1670,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2902,8 +2967,8 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1678,
-            "y": 1225
+            "x": 1773,
+            "y": 1089
           }
         ],
           "sections": [
@@ -2918,13 +2983,603 @@
         "map_locations": [
           {
             "map": "biomes",
-            "x": 1777,
-            "y": 1225
+            "x": 1876,
+            "y": 1089
           }
         ],
           "sections": [
           {
             "name": "Sealed Forest - 17th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bamboo Flats",
+    "chest_unopened_img": "/images/items/impatience.png",
+    "chest_opened_img": "/images/items/reputation.png",
+    "children": [
+      {
+        "name": "1st Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 228,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 1st Reputation",
+            "access_rules": [""]
+          }
+        ]
+      },
+      {
+        "name": "2nd Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 331,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 2nd Reputation",
+            "access_rules": ["$rawfood"]
+          }
+        ]
+      },
+      {
+        "name": "3rd Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 434,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 3rd Reputation",
+            "access_rules": ["$rawfood"]
+          }
+        ]
+      },
+      {
+        "name": "4th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 537,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 4th Reputation",
+            "access_rules": ["$planksbricksfabric,$rawfood"]
+          }
+        ]
+      },
+      {
+        "name": "5th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 640,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 5th Reputation",
+            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "6th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 743,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 6th Reputation",
+            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "7th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 846,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 7th Reputation",
+            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "8th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 949,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 8th Reputation",
+            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "9th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1052,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 9th Reputation",
+            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "10th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1155,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 10th Reputation",
+            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "11th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1258,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 11th Reputation",
+            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "12th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1361,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 12th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "13th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1464,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 13th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "14th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1567,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 14th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "15th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1670,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 15th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "16th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1773,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 16th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "17th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1876,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - 17th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "Victory",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1979,
+            "y": 1218
+          }
+        ],
+          "sections": [
+          {
+            "name": "Bamboo Flats - Victory",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rocky Ravine",
+    "chest_unopened_img": "/images/items/impatience.png",
+    "chest_opened_img": "/images/items/reputation.png",
+    "children": [
+      {
+        "name": "1st Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 228,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 1st Reputation",
+            "access_rules": [""]
+          }
+        ]
+      },
+      {
+        "name": "2nd Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 331,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 2nd Reputation",
+            "access_rules": ["$rawfood"]
+          }
+        ]
+      },
+      {
+        "name": "3rd Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 434,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 3rd Reputation",
+            "access_rules": ["$rawfood"]
+          }
+        ]
+      },
+      {
+        "name": "4th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 537,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 4th Reputation",
+            "access_rules": ["$planksbricksfabric,$rawfood"]
+          }
+        ]
+      },
+      {
+        "name": "5th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 640,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 5th Reputation",
+            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "6th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 743,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 6th Reputation",
+            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "7th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 846,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 7th Reputation",
+            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "8th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 949,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 8th Reputation",
+            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "9th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1052,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 9th Reputation",
+            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "10th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1155,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 10th Reputation",
+            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "11th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1258,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 11th Reputation",
+            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "12th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1361,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 12th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "13th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1464,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 13th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "14th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1567,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 14th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "15th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1670,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 15th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "16th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1773,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 16th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "17th Reputation",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1876,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - 17th Reputation",
+            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+          }
+        ]
+      },
+      {
+        "name": "Victory",
+        "map_locations": [
+          {
+            "map": "biomes",
+            "x": 1979,
+            "y": 1347
+          }
+        ],
+          "sections": [
+          {
+            "name": "Rocky Ravine - Victory",
             "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
