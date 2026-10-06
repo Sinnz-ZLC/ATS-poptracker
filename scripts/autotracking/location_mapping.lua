@@ -13,9 +13,7 @@ local LOCATION_LIST = {
     { { "@Species/Harpies/First Reputation through Resolve" } },
     { { "@Species/Foxes/First Reputation through Resolve" } },
     { { "@Species/Frogs/First Reputation through Resolve" } },
-
-    -- Bats - First Reputation through Resolve
-    false,
+    { { "@Species/Bats/First Reputation through Resolve" } },
 
     -- Species: 50 Resolve
     { { "@Species/Humans/50 Resolve" } },
@@ -24,9 +22,7 @@ local LOCATION_LIST = {
     { { "@Species/Harpies/50 Resolve" } },
     { { "@Species/Foxes/50 Resolve" } },
     { { "@Species/Frogs/50 Resolve" } },
-
-    -- Bats - 50 Resolve
-    false,
+    { { "@Species/Bats/50 Resolve" } },
 
     -- Royal Woodlands Reputation
     { { "@Royal Woodlands/1st Reputation/Royal Woodlands - 1st Reputation" } },
@@ -334,8 +330,7 @@ local LOCATION_LIST = {
     { { "@Species/Harpies/Have 20 Villagers in fully upgraded Housing" } },
     { { "@Species/Foxes/Have 20 Villagers in fully upgraded Housing" } },
     { { "@Species/Frogs/Have 20 Villagers in fully upgraded Housing" } },
-    -- Bats - Have 20 Villagers in fully upgraded Housing
-    false,
+    { { "@Species/Bats/Have 20 Villagers in fully upgraded Housing" } },
 
     -- Biome Events
     { { "@Cursed Royal Woodlands/Biome/Cursed Royal Woodlands - Appease a Calm Ghost" } },
