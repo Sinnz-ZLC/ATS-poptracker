@@ -159,7 +159,21 @@ local ITEM_LIST = {
 	{ { "temple" } },
 
 
-	{ { "forum" } }
+	{ { "forum" } },
+
+	-- Biome Keys
+	{ { "key_royal_woodlands" } },
+	{ { "key_coral_forest" } },
+	{ { "key_marshlands" } },
+	{ { "key_scarlet_orchard" } },
+	{ { "key_cursed_royal_woodlands" } },
+	{ { "key_coastal_grove" } },
+
+	{ { "key_ashen_thicket" } },
+	{ { "key_bamboo_flats" } },
+	
+	{ { "key_rocky_ravine" } },
+	{ { "key_sealed_forest" } }
 }
 
 ITEM_MAPPING = {}

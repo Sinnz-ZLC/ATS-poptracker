@@ -35,8 +35,8 @@ currently missing from ATS PopTracker
 - [X] Add Bats
 - [X] Add associated locations and checks
 - [X] Add autotracker mappings
-- [ ] Add accessibility logic
-- [ ] Add biome key tracking
+- [X] Add accessibility logic
+- [X] Add biome key tracking
 - [ ] Add tracking for trade goods
 - [ ] Add tracking for filler items
 - [ ] Test new content against the current APWorld

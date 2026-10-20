@@ -485,7 +485,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 1st Reputation",
-            "access_rules": [""]
+            "access_rules": ["$biome_access|key_royal_woodlands"]
           }
         ]
       },
@@ -501,7 +501,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 2nd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$rawfood"]
           }
         ]
       },
@@ -517,7 +517,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 3rd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$rawfood"]
           }
         ]
       },
@@ -533,7 +533,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 4th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planksbricksfabric,$rawfood"]
           }
         ]
       },
@@ -549,7 +549,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 5th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planksbricksfabric,$rawfood,$purging_fire"]
           }
         ]
       },
@@ -565,7 +565,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 6th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -581,7 +581,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 7th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -597,7 +597,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 8th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -613,7 +613,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 9th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -629,7 +629,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 10th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -645,7 +645,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 11th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -661,7 +661,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 12th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -677,7 +677,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 13th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -693,7 +693,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 14th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -709,7 +709,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 15th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -725,7 +725,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 16th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -741,7 +741,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - 17th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -757,7 +757,7 @@
           "sections": [
           {
             "name": "Royal Woodlands - Victory",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       }
@@ -780,7 +780,7 @@
           "sections": [
           {
             "name": "Coral Forest - 1st Reputation",
-            "access_rules": [""]
+            "access_rules": ["$biome_access|key_coral_forest"]
           }
         ]
       },
@@ -796,7 +796,7 @@
           "sections": [
           {
             "name": "Coral Forest - 2nd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_coral_forest,$rawfood"]
           }
         ]
       },
@@ -812,7 +812,7 @@
           "sections": [
           {
             "name": "Coral Forest - 3rd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_coral_forest,$rawfood"]
           }
         ]
       },
@@ -828,7 +828,7 @@
           "sections": [
           {
             "name": "Coral Forest - 4th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood"]
+            "access_rules": ["$biome_access|key_coral_forest,$planksbricksfabric,$rawfood"]
           }
         ]
       },
@@ -844,7 +844,7 @@
           "sections": [
           {
             "name": "Coral Forest - 5th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planksbricksfabric,$rawfood,$purging_fire"]
           }
         ]
       },
@@ -860,7 +860,7 @@
           "sections": [
           {
             "name": "Coral Forest - 6th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -876,7 +876,7 @@
           "sections": [
           {
             "name": "Coral Forest - 7th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -892,7 +892,7 @@
           "sections": [
           {
             "name": "Coral Forest - 8th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -908,7 +908,7 @@
           "sections": [
           {
             "name": "Coral Forest - 9th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -924,7 +924,7 @@
           "sections": [
           {
             "name": "Coral Forest - 10th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -940,7 +940,7 @@
           "sections": [
           {
             "name": "Coral Forest - 11th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -956,7 +956,7 @@
           "sections": [
           {
             "name": "Coral Forest - 12th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -972,7 +972,7 @@
           "sections": [
           {
             "name": "Coral Forest - 13th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -988,7 +988,7 @@
           "sections": [
           {
             "name": "Coral Forest - 14th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1004,7 +1004,7 @@
           "sections": [
           {
             "name": "Coral Forest - 15th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1020,7 +1020,7 @@
           "sections": [
           {
             "name": "Coral Forest - 16th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1036,7 +1036,7 @@
           "sections": [
           {
             "name": "Coral Forest - 17th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1052,7 +1052,7 @@
           "sections": [
           {
             "name": "Coral Forest - Victory",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_coral_forest,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       }
@@ -1075,7 +1075,7 @@
           "sections": [
           {
             "name": "The Marshlands - 1st Reputation",
-            "access_rules": [""]
+            "access_rules": ["$biome_access|key_marshlands"]
           }
         ]
       },
@@ -1091,7 +1091,7 @@
           "sections": [
           {
             "name": "The Marshlands - 2nd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_marshlands,$rawfood"]
           }
         ]
       },
@@ -1107,7 +1107,7 @@
           "sections": [
           {
             "name": "The Marshlands - 3rd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_marshlands,$rawfood"]
           }
         ]
       },
@@ -1123,7 +1123,7 @@
           "sections": [
           {
             "name": "The Marshlands - 4th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood"]
+            "access_rules": ["$biome_access|key_marshlands,$planksbricksfabric,$rawfood"]
           }
         ]
       },
@@ -1139,7 +1139,7 @@
           "sections": [
           {
             "name": "The Marshlands - 5th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planksbricksfabric,$rawfood,$purging_fire"]
           }
         ]
       },
@@ -1155,7 +1155,7 @@
           "sections": [
           {
             "name": "The Marshlands - 6th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1171,7 +1171,7 @@
           "sections": [
           {
             "name": "The Marshlands - 7th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1187,7 +1187,7 @@
           "sections": [
           {
             "name": "The Marshlands - 8th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1203,7 +1203,7 @@
           "sections": [
           {
             "name": "The Marshlands - 9th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1219,7 +1219,7 @@
           "sections": [
           {
             "name": "The Marshlands - 10th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1235,7 +1235,7 @@
           "sections": [
           {
             "name": "The Marshlands - 11th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1251,7 +1251,7 @@
           "sections": [
           {
             "name": "The Marshlands - 12th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1267,7 +1267,7 @@
           "sections": [
           {
             "name": "The Marshlands - 13th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1283,7 +1283,7 @@
           "sections": [
           {
             "name": "The Marshlands - 14th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1299,7 +1299,7 @@
           "sections": [
           {
             "name": "The Marshlands - 15th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1315,7 +1315,7 @@
           "sections": [
           {
             "name": "The Marshlands - 16th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1331,7 +1331,7 @@
           "sections": [
           {
             "name": "The Marshlands - 17th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1347,7 +1347,7 @@
           "sections": [
           {
             "name": "The Marshlands - Victory",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1363,15 +1363,15 @@
           "sections": [
           {
             "name": "The Marshlands - Harvest from an Ancient Proto Wheat",
-            "access_rules": ["$planks,$bricks,$fabric"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricks,$fabric"]
           },
           {
             "name": "The Marshlands - Harvest from a Dead Leviathan",
-            "access_rules": ["$planks,$bricks,$fabric"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricks,$fabric"]
           },
           {
             "name": "The Marshlands - Harvest from a Giant Proto Fungus",
-            "access_rules": ["$planks,$bricks,$fabric"]
+            "access_rules": ["$biome_access|key_marshlands,$planks,$bricks,$fabric"]
           }
         ]
       }
@@ -1394,7 +1394,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 1st Reputation",
-            "access_rules": [""]
+            "access_rules": ["$biome_access|key_scarlet_orchard"]
           }
         ]
       },
@@ -1410,7 +1410,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 2nd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$rawfood"]
           }
         ]
       },
@@ -1426,7 +1426,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 3rd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$rawfood"]
           }
         ]
       },
@@ -1442,7 +1442,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 4th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planksbricksfabric,$rawfood"]
           }
         ]
       },
@@ -1458,7 +1458,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 5th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planksbricksfabric,$rawfood,$purging_fire"]
           }
         ]
       },
@@ -1474,7 +1474,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 6th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1490,7 +1490,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 7th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1506,7 +1506,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 8th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1522,7 +1522,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 9th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1538,7 +1538,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 10th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1554,7 +1554,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 11th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1570,7 +1570,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 12th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1586,7 +1586,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 13th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1602,7 +1602,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 14th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1618,7 +1618,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 15th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1634,7 +1634,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 16th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1650,7 +1650,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - 17th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1666,7 +1666,7 @@
           "sections": [
           {
             "name": "Scarlet Orchard - Victory",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1682,15 +1682,15 @@
           "sections": [
           {
             "name": "Scarlet Orchard - Reconstruct the Sealed Spider",
-            "access_rules": ["$planks,$fabric,$bricks,$eggsmeatrootsberriesmushroomsinsects,$incensescrollstearesin,$coaloilsea_marrowplanks,$stonecopper_bardyebarrelsincense,$toolspartspipes"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$fabric,$bricks,$eggsmeatrootsberriesmushroomsinsects,$incensescrollstearesin,$coaloilsea_marrowplanks,$stonecopper_bardyebarrelsincense,$toolspartspipes"]
           },
           {
             "name": "Scarlet Orchard - Reconstruct the Sea Snake",
-            "access_rules": ["$planks,$fabric,$bricks,$eggsmeatrootsberriesmushroomsinsects,$incensescrollstearesin,$coaloilsea_marrowplanks,$stonecopper_bardyebarrelsincense,$toolspartspipes"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$fabric,$bricks,$eggsmeatrootsberriesmushroomsinsects,$incensescrollstearesin,$coaloilsea_marrowplanks,$stonecopper_bardyebarrelsincense,$toolspartspipes"]
           },
           {
             "name": "Scarlet Orchard - Reconstruct the Smoldering Scorpion",
-            "access_rules": ["$planks,$fabric,$bricks,$eggsmeatrootsberriesmushroomsinsects,$incensescrollstearesin,$coaloilsea_marrowplanks,$stonecopper_bardyebarrelsincense,$toolspartspipes"]
+            "access_rules": ["$biome_access|key_scarlet_orchard,$planks,$fabric,$bricks,$eggsmeatrootsberriesmushroomsinsects,$incensescrollstearesin,$coaloilsea_marrowplanks,$stonecopper_bardyebarrelsincense,$toolspartspipes"]
           }
         ]
       }
@@ -1713,7 +1713,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 1st Reputation",
-            "access_rules": [""]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands"]
           }
         ]
       },
@@ -1729,7 +1729,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 2nd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$rawfood"]
           }
         ]
       },
@@ -1745,7 +1745,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 3rd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$rawfood"]
           }
         ]
       },
@@ -1761,7 +1761,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 4th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planksbricksfabric,$rawfood"]
           }
         ]
       },
@@ -1777,7 +1777,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 5th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planksbricksfabric,$rawfood,$purging_fire"]
           }
         ]
       },
@@ -1793,7 +1793,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 6th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1809,7 +1809,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 7th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1825,7 +1825,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 8th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1841,7 +1841,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 9th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -1857,7 +1857,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 10th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1873,7 +1873,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 11th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1889,7 +1889,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 12th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1905,7 +1905,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 13th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -1921,7 +1921,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 14th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1937,7 +1937,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 15th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1953,7 +1953,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 16th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1969,7 +1969,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - 17th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -1985,7 +1985,7 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - Victory",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2001,11 +2001,11 @@
           "sections": [
           {
             "name": "Cursed Royal Woodlands - Appease a Calm Ghost",
-            "access_rules": ["$planks,$bricks,$fabric,$incenseoilsea_marrowtoolsancient_tablet"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricks,$fabric,$incenseoilsea_marrowtoolsancient_tablet"]
           },
           {
             "name": "Cursed Royal Woodlands - Appease an Angry Ghost",
-            "access_rules": ["$planks,$bricks,$fabric,$incenseoilsea_marrowtoolsancient_tablet"]
+            "access_rules": ["$biome_access|key_cursed_royal_woodlands,$planks,$bricks,$fabric,$incenseoilsea_marrowtoolsancient_tablet"]
           }
         ]
       }
@@ -2028,7 +2028,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 1st Reputation",
-            "access_rules": [""]
+            "access_rules": ["$biome_access|key_ashen_thicket"]
           }
         ]
       },
@@ -2044,7 +2044,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 2nd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$rawfood"]
           }
         ]
       },
@@ -2060,7 +2060,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 3rd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$rawfood"]
           }
         ]
       },
@@ -2076,7 +2076,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 4th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planksbricksfabric,$rawfood"]
           }
         ]
       },
@@ -2092,7 +2092,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 5th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planksbricksfabric,$rawfood,$purging_fire"]
           }
         ]
       },
@@ -2108,7 +2108,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 6th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2124,7 +2124,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 7th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2140,7 +2140,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 8th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2156,7 +2156,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 9th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2172,7 +2172,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 10th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2188,7 +2188,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 11th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2204,7 +2204,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 12th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2220,7 +2220,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 13th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2236,7 +2236,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 14th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2252,7 +2252,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 15th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2268,7 +2268,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 16th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2284,7 +2284,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - 17th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2300,7 +2300,7 @@
           "sections": [
           {
             "name": "Ashen Thicket - Victory",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2316,15 +2316,15 @@
           "sections": [
           {
             "name": "Ashen Thicket - Forge 1st Cornerstone",
-            "access_rules": [""]
+            "access_rules": ["$biome_access|key_ashen_thicket"]
           },
           {
             "name": "Ashen Thicket - Forge 2nd Cornerstone",
-            "access_rules": ["$planks,$bricks"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricks"]
           },
           {
             "name": "Ashen Thicket - Forge 3rd Cornerstone",
-            "access_rules": ["$planks,$bricks,$coalcopper_oresalt"]
+            "access_rules": ["$biome_access|key_ashen_thicket,$planks,$bricks,$coalcopper_oresalt"]
           }
         ]
       }
@@ -2347,7 +2347,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 1st Reputation",
-            "access_rules": [""]
+            "access_rules": ["$biome_access|key_coastal_grove"]
           }
         ]
       },
@@ -2363,7 +2363,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 2nd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_coastal_grove,$rawfood"]
           }
         ]
       },
@@ -2379,7 +2379,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 3rd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_coastal_grove,$rawfood"]
           }
         ]
       },
@@ -2395,7 +2395,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 4th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planksbricksfabric,$rawfood"]
           }
         ]
       },
@@ -2411,7 +2411,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 5th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planksbricksfabric,$rawfood,$purging_fire"]
           }
         ]
       },
@@ -2427,7 +2427,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 6th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2443,7 +2443,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 7th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2459,7 +2459,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 8th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2475,7 +2475,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 9th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2491,7 +2491,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 10th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2507,7 +2507,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 11th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2523,7 +2523,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 12th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2539,7 +2539,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 13th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2555,7 +2555,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 14th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2571,7 +2571,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 15th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2587,7 +2587,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 16th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2603,7 +2603,7 @@
           "sections": [
           {
             "name": "Coastal Grove - 17th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2619,7 +2619,7 @@
           "sections": [
           {
             "name": "Coastal Grove - Victory",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2635,83 +2635,83 @@
           "sections": [
           {
             "name": "Coastal Grove - 1st Expedition",
-            "access_rules": ["$algaefish,$rootsberriesinsectsmushroomsvegetables"]
+            "access_rules": ["$biome_access|key_coastal_grove,$algaefish,$rootsberriesinsectsmushroomsvegetables"]
           },
           {
             "name": "Coastal Grove - 2nd Expedition",
-            "access_rules": ["$planks,$algaefish,$rootsberriesinsectsmushroomsvegetables"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$algaefish,$rootsberriesinsectsmushroomsvegetables"]
           },
           {
             "name": "Coastal Grove - 3rd Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$algaefish,$rootsberriesinsectsmushroomsvegetables,$pasteskewersporridge"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$algaefish,$rootsberriesinsectsmushroomsvegetables,$pasteskewersporridge"]
           },
           {
             "name": "Coastal Grove - 4th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge"]
           },
           {
             "name": "Coastal Grove - 5th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge"]
           },
           {
             "name": "Coastal Grove - 6th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge"]
           },
           {
             "name": "Coastal Grove - 7th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 8th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 9th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 10th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 11th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 12th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 13th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 14th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 15th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 16th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 17th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 18th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 19th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           },
           {
             "name": "Coastal Grove - 20th Expedition",
-            "access_rules": ["$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
+            "access_rules": ["$biome_access|key_coastal_grove,$planks,$bricks,$fabric,$purging_fire,$algaefish,$rootsberriesinsectsmushroomsvegetables,$biscuitspiejerkypickled_goods,$pasteskewersporridge,$aleteawine"]
           }
         ]
       }
@@ -2734,7 +2734,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 1st Reputation",
-            "access_rules": [""]
+            "access_rules": ["$biome_access|key_sealed_forest"]
           }
         ]
       },
@@ -2750,7 +2750,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 2nd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_sealed_forest,$rawfood"]
           }
         ]
       },
@@ -2766,7 +2766,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 3rd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_sealed_forest,$rawfood"]
           }
         ]
       },
@@ -2782,7 +2782,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 4th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planksbricksfabric,$rawfood"]
           }
         ]
       },
@@ -2798,7 +2798,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 5th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planksbricksfabric,$rawfood,$purging_fire"]
           }
         ]
       },
@@ -2814,7 +2814,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 6th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2830,7 +2830,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 7th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2846,7 +2846,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 8th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2862,7 +2862,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 9th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -2878,7 +2878,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 10th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2894,7 +2894,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 11th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2910,7 +2910,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 12th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2926,7 +2926,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 13th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -2942,7 +2942,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 14th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2958,7 +2958,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 15th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2974,7 +2974,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 16th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -2990,7 +2990,7 @@
           "sections": [
           {
             "name": "Sealed Forest - 17th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_sealed_forest,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       }
@@ -3013,7 +3013,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 1st Reputation",
-            "access_rules": [""]
+            "access_rules": ["$biome_access|key_bamboo_flats"]
           }
         ]
       },
@@ -3029,7 +3029,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 2nd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$rawfood"]
           }
         ]
       },
@@ -3045,7 +3045,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 3rd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$rawfood"]
           }
         ]
       },
@@ -3061,7 +3061,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 4th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planksbricksfabric,$rawfood"]
           }
         ]
       },
@@ -3077,7 +3077,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 5th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planksbricksfabric,$rawfood,$purging_fire"]
           }
         ]
       },
@@ -3093,7 +3093,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 6th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -3109,7 +3109,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 7th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -3125,7 +3125,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 8th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -3141,7 +3141,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 9th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -3157,7 +3157,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 10th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -3173,7 +3173,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 11th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -3189,7 +3189,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 12th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -3205,7 +3205,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 13th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -3221,7 +3221,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 14th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -3237,7 +3237,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 15th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -3253,7 +3253,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 16th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -3269,7 +3269,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - 17th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -3285,7 +3285,7 @@
           "sections": [
           {
             "name": "Bamboo Flats - Victory",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_bamboo_flats,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       }
@@ -3308,7 +3308,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 1st Reputation",
-            "access_rules": [""]
+            "access_rules": ["$biome_access|key_rocky_ravine"]
           }
         ]
       },
@@ -3324,7 +3324,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 2nd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$rawfood"]
           }
         ]
       },
@@ -3340,7 +3340,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 3rd Reputation",
-            "access_rules": ["$rawfood"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$rawfood"]
           }
         ]
       },
@@ -3356,7 +3356,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 4th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planksbricksfabric,$rawfood"]
           }
         ]
       },
@@ -3372,7 +3372,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 5th Reputation",
-            "access_rules": ["$planksbricksfabric,$rawfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planksbricksfabric,$rawfood,$purging_fire"]
           }
         ]
       },
@@ -3388,7 +3388,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 6th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -3404,7 +3404,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 7th Reputation",
-            "access_rules": ["$planksbricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planksbricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -3420,7 +3420,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 8th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -3436,7 +3436,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 9th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planks,$bricksfabric,$complexfood,$purging_fire"]
           }
         ]
       },
@@ -3452,7 +3452,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 10th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -3468,7 +3468,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 11th Reputation",
-            "access_rules": ["$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planks,$bricksfabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -3484,7 +3484,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 12th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -3500,7 +3500,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 13th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planks,$bricks,$fabric,$complexfood,$ambertoolsservices,$purging_fire"]
           }
         ]
       },
@@ -3516,7 +3516,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 14th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -3532,7 +3532,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 15th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -3548,7 +3548,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 16th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -3564,7 +3564,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - 17th Reputation",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       },
@@ -3580,7 +3580,7 @@
           "sections": [
           {
             "name": "Rocky Ravine - Victory",
-            "access_rules": ["$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
+            "access_rules": ["$biome_access|key_rocky_ravine,$planks,$bricks,$fabric,$complexfood,$ambertools,$services,$purging_fire"]
           }
         ]
       }

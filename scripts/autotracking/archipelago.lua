@@ -104,18 +104,22 @@ end
 
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
-	print(string.format("called apply_slot_data, slot_data:\n%s", dump_table(slot_data["rep_location_indices"])))
-	-- put any code here that slot_data should affect (toggling setting items for example)
-	local reputation_table = slot_data["rep_location_indices"]
-	for _, reputation in ipairs(reputation_table) do
-		enable_reputation(reputation)
-	end
+    BIOME_KEYS_ENABLED = (slot_data["enable_biome_keys"] == 1)
+
+    print(string.format("called apply_slot_data, slot_data:\n%s", dump_table(slot_data["rep_location_indices"])))
+    -- put any code here that slot_data should affect (toggling setting items for example)
+    local reputation_table = slot_data["rep_location_indices"]
+    for _, reputation in ipairs(reputation_table) do
+        enable_reputation(reputation)
+    end
 end
 
 -- called right after an AP slot is connected
 function onClear(slot_data)
-	-- use bulk update to pause logic updates until we are done resetting all items/locations
-	Tracker.BulkUpdate = true
+    BIOME_KEYS_ENABLED = nil
+
+    -- use bulk update to pause logic updates until we are done resetting all items/locations
+    Tracker.BulkUpdate = true
 	if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
 		print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
 	end
