@@ -9,6 +9,11 @@
         "dock": "left",
         "key": "resources"
       },
+	  {
+    "type": "layout",
+    "dock": "left",
+    "key": "biome_keys"
+	  },
       {
         "type": "group",
         "header": "Guardian Seals",
