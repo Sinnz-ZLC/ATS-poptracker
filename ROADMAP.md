@@ -37,14 +37,14 @@ currently missing from ATS PopTracker
 - [X] Add autotracker mappings
 - [X] Add accessibility logic
 - [X] Add biome key tracking
-- [ ] Add tracking for trade goods
-- [ ] Add tracking for filler items
-- [ ] Test new content against the current APWorld
+- [X] Test new content against the current APWorld
 
 ## Future / Under Consideration
 
 The following areas are being considered but are not currently assigned to a release.
 
+- Add tracking for trade goods
+- Add tracking for filler items
 - Progression-aware reputation checks
 - Review other sequential progression checks
 - Automated APWorld-to-PopTracker mapping validation
