@@ -27,10 +27,12 @@
               "content": [
                 {
                   "type": "group",
-                  "content": {
-                    "type": "layout",
-                    "key": "shared_item_grid"
-                  }
+                  "content": [
+                    {
+                      "type": "layout",
+                      "key": "shared_item_grid"
+                    }
+                  ]
                 }
               ]
             }
