@@ -37,6 +37,7 @@ end
 Tracker:AddLayouts("layouts/shared_item_grid.jsonc")
 Tracker:AddLayouts("layouts/buildings.jsonc")
 Tracker:AddLayouts("layouts/resources.jsonc")
+Tracker:AddLayouts("layouts/biome_keys.jsonc")
 Tracker:AddLayouts("layouts/tabs.jsonc")
 Tracker:AddLayouts("layouts/tracker.jsonc")
 Tracker:AddLayouts("layouts/broadcast.jsonc")

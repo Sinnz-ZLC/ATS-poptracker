@@ -375,3 +375,24 @@ end
 function coalcopper_oresalt()
     return (has("coal") or has("copper_ore") or has("salt"))
 end
+
+function pastebiscuitsskewers()
+    return (has("paste") or has("biscuits") or has("skewers"))
+end
+
+-- Biome-key accessibility, controlled by Archipelago slot data.
+-- nil means no connected session has supplied the setting yet.
+BIOME_KEYS_ENABLED = nil
+
+function biome_access(key)
+    if BIOME_KEYS_ENABLED == false then
+        return true
+    end
+
+    if BIOME_KEYS_ENABLED == true then
+        return has(key)
+    end
+
+    -- Do not assume biome keys are disabled before receiving slot data.
+    return false
+end

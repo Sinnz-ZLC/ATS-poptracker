@@ -30,21 +30,21 @@ currently missing from ATS PopTracker
 
 ### Planned
 
-- [ ] Add Bamboo Flats
-- [ ] Add Rocky Ravine
-- [ ] Add Bats
-- [ ] Add associated locations and checks
-- [ ] Add autotracker mappings
-- [ ] Add accessibility logic
-- [ ] Add biome key tracking
-- [ ] Add tracking for trade goods
-- [ ] Add tracking for filler items
-- [ ] Test new content against the current APWorld
+- [X] Add Bamboo Flats
+- [X] Add Rocky Ravine
+- [X] Add Bats
+- [X] Add associated locations and checks
+- [X] Add autotracker mappings
+- [X] Add accessibility logic
+- [X] Add biome key tracking
+- [X] Test new content against the current APWorld
 
 ## Future / Under Consideration
 
 The following areas are being considered but are not currently assigned to a release.
 
+- Add tracking for trade goods
+- Add tracking for filler items
 - Progression-aware reputation checks
 - Review other sequential progression checks
 - Automated APWorld-to-PopTracker mapping validation

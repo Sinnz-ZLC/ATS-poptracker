@@ -764,6 +764,66 @@
   "codes": "trade_goods"
  },
  {
+  "name": "Royal Woodlands Key",
+  "type": "toggle",
+  "img": "images/items/keys/Icon_Biome_Royal_Woodlands.png",
+  "codes": "key_royal_woodlands"
+},
+{
+  "name": "Coral Forest Key",
+  "type": "toggle",
+  "img": "images/items/keys/Icon_Biome_CoralForest.png",
+  "codes": "key_coral_forest"
+},
+{
+  "name": "The Marshlands Key",
+  "type": "toggle",
+  "img": "images/items/keys/Icon_Biome_Marshlands.png",
+  "codes": "key_marshlands"
+},
+{
+  "name": "Scarlet Orchard Key",
+  "type": "toggle",
+  "img": "images/items/keys/Icon_Biome_ScarletOrchard.png",
+  "codes": "key_scarlet_orchard"
+},
+{
+  "name": "Cursed Royal Woodlands Key",
+  "type": "toggle",
+  "img": "images/items/keys/Icon_Biome_Cursed.png",
+  "codes": "key_cursed_royal_woodlands"
+},
+{
+  "name": "Coastal Grove Key",
+  "type": "toggle",
+  "img": "images/items/keys/Icon_Biome_Bay.png",
+  "codes": "key_coastal_grove"
+},
+{
+  "name": "Ashen Thicket Key",
+  "type": "toggle",
+  "img": "images/items/keys/Icon_Biome_Ashen.png",
+  "codes": "key_ashen_thicket"
+},
+{
+  "name": "Bamboo Flats Key",
+  "type": "toggle",
+  "img": "images/items/keys/Icon_Biome_Bamboo.png",
+  "codes": "key_bamboo_flats"
+},
+{
+  "name": "Rocky Ravine Key",
+  "type": "toggle",
+  "img": "images/items/keys/Icon_Biome_Ravine.png",
+  "codes": "key_rocky_ravine"
+},
+{
+  "name": "Sealed Forest Key",
+  "type": "toggle",
+  "img": "images/items/keys/Icon_Biome_Sealed_Forest.png",
+  "codes": "key_sealed_forest"
+},
+ {
   "name": "Guardian Seal",
   "type": "consumable",
   "min_quantity": 0,
